@@ -25,16 +25,16 @@ Group Roles:
 
 
 <!-- Main Body -->
-![Foodie Body Page](https://github.com/user-attachments/assets/949756e3-5298-4165-b890-6bb7df752520)
+![Foodie Body Page](https://github.com/user-attachments/assets/452e14ac-9f90-493a-a22a-b1de4da91801)
 
 
 
 <!-- Middle Body -->
-![Foodie Body Page](https://github.com/user-attachments/assets/16430af3-2f52-4e88-9b6e-cc441edde316)
+![Foodie Body Page](https://github.com/user-attachments/assets/3631a4a7-708d-4a39-83c4-95b58f1edbf8)
 
-![Foodie Body Page](https://github.com/user-attachments/assets/16fb07fa-ef16-4669-b3d6-70e2f2ee0529)
+![Foodie Body Page](https://github.com/user-attachments/assets/87878116-b191-45ec-8723-0a963081e5a2)
 
-
+![Foodie Body Page](https://github.com/user-attachments/assets/01b71442-2ebf-4c0f-ac0b-143cd4a07de7)
 
 <!-- Footer -->
 ![Foodie Footer Page](https://github.com/user-attachments/assets/83981cd9-d629-4655-b5c2-ad1583ab6a60)
