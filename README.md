@@ -20,27 +20,24 @@ Group Roles:
 
 
 <!-- Header -->
-![Foodie Header Page](https://github.com/user-attachments/assets/9c89e814-0843-43d2-a146-ff6d410408fe)
+![Foodie Header Page](https://github.com/user-attachments/assets/2a125a49-a411-4f12-ac70-2d248c5fa5d7)
 
 
 
 <!-- Main Body -->
-![Foodie Body Page](https://github.com/user-attachments/assets/4a64dd02-64cb-4f8a-b8f5-a3e5b024723f)
+![Foodie Body Page](https://github.com/user-attachments/assets/949756e3-5298-4165-b890-6bb7df752520)
 
 
 
 <!-- Middle Body -->
-![Foodie Body Page](https://github.com/user-attachments/assets/7f767981-7128-4968-8a2b-f17a52f86fb6)
+![Foodie Body Page](https://github.com/user-attachments/assets/16430af3-2f52-4e88-9b6e-cc441edde316)
 
-![Foodie Body Page](https://github.com/user-attachments/assets/9981e6d6-1eab-4a04-80fc-e610b4b1ef97)
+![Foodie Body Page](https://github.com/user-attachments/assets/16fb07fa-ef16-4669-b3d6-70e2f2ee0529)
 
-![Foodie Body Page](https://github.com/user-attachments/assets/a9a7aa53-d899-4e2d-b2ea-7cb2ea128fbd)
-
-![Foodie Body Page](https://github.com/user-attachments/assets/9e98abde-6e54-488f-bc5a-b691e39ed4e7)
 
 
 <!-- Footer -->
-![Foodie Footer Page](https://github.com/user-attachments/assets/e7032f62-026f-4443-a454-910c274d9ec6)
+![Foodie Footer Page](https://github.com/user-attachments/assets/83981cd9-d629-4655-b5c2-ad1583ab6a60)
 
 
 
